@@ -55,8 +55,12 @@ header {
 footer {
     margin-top: 20px;
     text-align:left;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 5px;
+    background-color: green;
 }
 
 footer p {
-    color: #555;
+    color: black;
 }
